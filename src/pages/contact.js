@@ -5,7 +5,7 @@ export default () => {
     return (
         <div>
             <Navbar />
-            Home
+            Contact
         </div>
         
     )
